@@ -1,0 +1,6 @@
+import { useGetGBPStatsQuery } from "@/reduxslice/googleBusinessProfile";
+import React from "react";
+
+export default function Page() {
+  return <div>Dashboard</div>;
+}
